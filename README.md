@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nsengiyumva-christian&label=Profile%20views&color=0e75b6&style=flat" alt="nsengiyumva-christian" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nsengiyumva-christian" alt="nsengiyumva-christian" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/nsengiyumvachr9" target="blank"><img src="https://img.shields.io/twitter/follow/nsengiyumvachr9?logo=twitter&style=for-the-badge" alt="nsengiyumvachr9" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJs,Tailwind and NodeJs**
