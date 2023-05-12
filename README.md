@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/nsengiyumvachr9" target="blank"><img src="https://img.shields.io/twitter/follow/nsengiyumvachr9?logo=twitter&style=for-the-badge" alt="nsengiyumvachr9" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs,Tailwind and NodeJs**
+- 🌱 I’m currently learning **css**
 
 - 👯 I’m looking to collaborate on **any web development project**
 
