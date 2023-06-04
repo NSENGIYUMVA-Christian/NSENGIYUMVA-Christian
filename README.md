@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/nsengiyumvachr9" target="blank"><img src="https://img.shields.io/twitter/follow/nsengiyumvachr9?logo=twitter&style=for-the-badge" alt="nsengiyumvachr9" /></a> </p>
 
-- 🌱 I’m currently learning **Redux toolkit**
+- 🌱 I’m currently refreshing on **vanilla javascript**
 
 - 👯 I’m looking to collaborate on **any web development project**
 
