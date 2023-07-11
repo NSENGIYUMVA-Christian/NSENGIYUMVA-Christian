@@ -7,27 +7,24 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/nsengiyumvachr9" target="blank"><img src="https://img.shields.io/twitter/follow/nsengiyumvachr9?logo=twitter&style=for-the-badge" alt="nsengiyumvachr9" /></a> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://chrisportfolioapp.netlify.app](https://chrisportfolioapp.netlify.app)
 
-- 📫 How to reach me **cristiannsengi@gmail.com**
+  - 📫 You can reach out to me by: 
+[![Email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:cristiannsengi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/nsengiyumva-christian-b9947a233/)
+[![Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/NSENGIYUMVAChr9)
+[![Whatsapp](https://img.shields.io/badge/--whatsapp?label=Whatsapp&logo=whatsapp&style=social)](https://api.whatsapp.com/send?phone=+250786457338&text=Hello%20Chris!%20%F0%9F%91%8B%F0%9F%8F%BB)
+[![Portfolio](https://img.shields.io/badge/--globe?label=Portfolio&logo=Portfolio&style=social)](https://chrisportfolioapp.netlify.app/)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/nsengiyumva-christian-b9947a233/](https://www.linkedin.com/in/nsengiyumva-christian-b9947a233/)
 
-- ⚡ Fun fact **Why do programmers prefer dark mode? Because light attracts bugs.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nsengiyumvachr9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nsengiyumvachr9" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nsengiyumva-christian-b9947a233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nsengiyumva-christian-b9947a233" height="30" width="40" /></a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nsengiyumva-christian&show_icons=true&locale=en&layout=compact" alt="nsengiyumva-christian" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nsengiyumva-christian&show_icons=true&locale=en" alt="nsengiyumva-christian" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nsengiyumva-christian&" alt="nsengiyumva-christian" /></p>
