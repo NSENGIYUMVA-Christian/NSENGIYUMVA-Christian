@@ -1,6 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm NSENGIYUMVA CHRISTIAN</h1>
+<h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">A passionate web developer</h3>
+<p> I am a professional web developer with expertise in HTML, CSS, and JavaScript. I possess advanced skills in utilizing frameworks like ReactJS, Tailwind, and Bootstrap to create dynamic and responsive websites. Additionally, I have a thorough understanding of the WordPress content management system and can leverage its features to build impressive websites. </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nsengiyumva-christian&label=Profile%20views&color=0e75b6&style=flat" alt="nsengiyumva-christian" /> </p>
 
