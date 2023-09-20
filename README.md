@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">A passionate web developer</h3>
-<p> I'm a full-stack web developer proficient in HTML, CSS, and JavaScript. My expertise lies in utilizing cutting-edge technologies such as React.js, Redux, Express.js, Node.js, MongoDB, Mongoose, Tailwind CSS, and Bootstrap for building robust and innovative web applications. I'm also skilled in WordPress and can leverage its features to build impressive sites.. </p>
+<p> I'm a full-stack web developer with a strong command of HTML, CSS, and JavaScript. My expertise lies in utilizing cutting-edge technologies such as React.js, Redux, Express.js, Node.js, MongoDB, Mongoose, Tailwind CSS, and Bootstrap to build robust web applications. Additionally, I know how to use Stripe to facilitate online payments for web applications. I'm also skilled in WordPress and can leverage its features to create impressive websites</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nsengiyumva-christian&label=Profile%20views&color=0e75b6&style=flat" alt="nsengiyumva-christian" /> </p>
 
