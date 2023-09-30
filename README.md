@@ -9,7 +9,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://chrisportfolioapp.netlify.app](https://nsengiyumvachristian.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://nsengiyumvachristian.netlify.app/](https://nsengiyumvachristian.netlify.app/)
 
   - 📫 You can reach out to me by: 
 [![Email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:cristiannsengi@gmail.com)
