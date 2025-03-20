@@ -46,14 +46,6 @@
 </p>
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=nsengiyumva-christian&show_icons=true&theme=radical&hide_border=true" 
-       alt="nsengiyumva-christian" 
-  />
-</p>
-
-<p align="center">
   <!-- Top Languages -->
   <img 
        src="https://github-readme-stats.vercel.app/api/top-langs?username=nsengiyumva-christian&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" 
@@ -76,6 +68,6 @@
 
 <!-- FOOTER -->
 <p align="center">
-  <i>“Talk is cheap. Show me the code.” – Linus Torvalds</i>
+  <i>"Make it work, make it right, make it fast." – Kent Beck</i>
 </p>
 
