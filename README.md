@@ -53,16 +53,6 @@
   />
 </p>
 
-<!-- TROPHIES (OPTIONAL) -->
-<p align="center">
-  <!-- You can customize the trophies at: https://github.com/ryo-ma/github-profile-trophy -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img 
-         src="https://github-profile-trophy.vercel.app/?username=nsengiyumva-christian&theme=dracula&no-frame=true&row=1&column=7" 
-         alt="nsengiyumva-christian trophies" 
-    />
-  </a>
-</p>
 
 ---
 
