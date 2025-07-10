@@ -21,7 +21,7 @@
 ---
 
 <!-- QUICK LINKS / PROJECTS -->
-- 👨‍💻 Some of my simple projects are available at [**chriscoder.vercel.app**](https://chriscoder.vercel.app/)
+- 👨‍💻 Some of my projects are available at [**chriscoder.vercel.app**](https://chriscoder.vercel.app/)
 
 <!-- CONTACT / SOCIALS -->
 ### Connect with me:
