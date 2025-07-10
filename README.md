@@ -29,7 +29,7 @@
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/nsengiyumva-christian-b9947a233/)
 [![Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/NSENGIYUMVAChr9)
 [![Whatsapp](https://img.shields.io/badge/--whatsapp?label=Whatsapp&logo=whatsapp&style=social)](https://api.whatsapp.com/send?phone=+250786457338&text=Hello%20Chris!%20%F0%9F%91%8B%F0%9F%8F%BB)
-[![Portfolio](https://img.shields.io/badge/--globe?label=Portfolio&logo=Portfolio&style=social)](https://nsengiyumvachristian.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/--globe?label=Portfolio&logo=Portfolio&style=social)](https://chriscoder.vercel.app)
 
 ---
 
