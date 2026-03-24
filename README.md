@@ -8,10 +8,9 @@
 
 <!-- INTRODUCTION -->
 <p align="center">
-  I'm <strong>NSENGIYUMVA Christian</strong>, a full-stack web developer with a strong command of <br/>
-  <strong>HTML, CSS, JavaScript, TypeScript</strong> and <strong>SQL</strong>. My expertise lies in utilizing cutting-edge technologies such as 
-  <strong>React.js, Redux, Next.js, Nest.js, Express.js, Node.js, MongoDB, PostgreSQL, Docker, Tailwind CSS, Bootstrap, Figma</strong> 
-  and many more to build robust web applications. Additionally, I'm also skilled in <strong>WordPress and Shopify</strong> to create impressive websites.
+  👋 Hi, I’m <strong>NSENGIYUMVA Christian</strong><br/>
+  💻 Full-stack web developer skilled in <strong>JavaScript, TypeScript and Python</strong><br/>
+  🚀 Currently interested in <strong>Machine Learning and AI</strong>
 </p>
 
 <p align="center">
