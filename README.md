@@ -8,7 +8,7 @@
 <!-- INTRODUCTION -->
 <p align="center">
   👋 Hi, I’m <strong>NSENGIYUMVA Christian</strong><br/>
-  💻 Full-stack web developer skilled in <strong>JavaScript, TypeScript and Python</strong><br/>
+  💻 Full-stack developer skilled in <strong>JavaScript, TypeScript and Python</strong><br/>
   🚀 Currently interested in <strong>Machine Learning and AI</strong>
 </p>
 
