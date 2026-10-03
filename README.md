@@ -9,7 +9,7 @@
 <p align="center">
   👋 Hi, I’m <strong>NSENGIYUMVA Christian</strong><br/>
   💻 Full-stack developer skilled in <strong>JavaScript, TypeScript and Python</strong><br/>
-  🚀 Currently interested in <strong>Machine Learning and AI</strong>
+  🚀 I am currently focused on healthcare data management, system interoperability, and digital health solutions.
 </p>
 
 <p align="center">
