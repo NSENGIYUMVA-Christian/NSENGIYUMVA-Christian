@@ -19,7 +19,7 @@
 ---
 
 <!-- QUICK LINKS / PROJECTS -->
-- 👨‍💻  [**chriscoder.vercel.app**](https://chriscoder.vercel.app/)
+- 👨‍💻  [**chriscoder.vercel.app**](https://nsychris.vercel.app/)
 
 <!-- CONTACT / SOCIALS -->
 ### Connect with me:
